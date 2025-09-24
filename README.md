@@ -12,5 +12,5 @@
             # Use this username's contribution graph  
             user_name: RUTVIK
             # Text on contribution graph 
-            text: JASINERI
+            text: RUTVIK
        - uses: rutvikh-webmavens/simple-push-action@v1
